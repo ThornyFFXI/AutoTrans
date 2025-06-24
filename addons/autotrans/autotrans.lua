@@ -1,6 +1,6 @@
 addon.name      = 'AutoTrans';
 addon.author    = 'Thorny';
-addon.version   = '1.0.0.0';
+addon.version   = '1.01';
 addon.desc      = 'Replaces [[]] with translation tags in typed commands.';
 addon.link      = 'https://ashitaxi.com/';
 

@@ -1,4 +1,4 @@
-local dats = require('dats');
+local dats = require('ffxi.dats');
 local language;
 
 local resMgr = AshitaCore:GetResourceManager();
